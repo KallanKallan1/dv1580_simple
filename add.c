@@ -7,7 +7,7 @@ int main(int argc, char *argv[]){
     int num2 = atoi(argv[2]);
     int sum = num1 + num2;
 
-    printf("Sum: %d\n", sum);
+    printf("%d\n", sum);
     
     return 0;
 }
